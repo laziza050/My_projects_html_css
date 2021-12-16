@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Montserrat-regular';
+    src:
+        url('Montserrat-regular.ttf') format('ttf'),
+        url('Montserrat-regular.otf') format('otf'),
+        url('Montserrat-regular.eot') format('eot'),
+        url('Montserrat-regular.svg') format('svg'),
+        url('Montserrat-regular.woff') format('woff'),
+        url('Montserrat-regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-bold';
+    src:
+        url('Montserrat-bold.ttf') format('ttf'),
+        url('Montserrat-bold.otf') format('otf'),
+        url('Montserrat-bold.eot') format('eot'),
+        url('Montserrat-bold.svg') format('svg'),
+        url('Montserrat-bold.woff') format('woff'),
+        url('Montserrat-bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RobotoSlab-bold';
+    src:
+        url('RobotoSlab-bold.ttf') format('ttf'),
+        url('RobotoSlab-bold.otf') format('otf'),
+        url('RobotoSlab-bold.eot') format('eot'),
+        url('RobotoSlab-bold.svg') format('svg'),
+        url('RobotoSlab-bold.woff') format('woff'),
+        url('RobotoSlab-bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RobotoSlab-regular';
+    src:
+        url('RobotoSlab-regular.ttf') format('ttf'),
+        url('RobotoSlab-regular.otf') format('otf'),
+        url('RobotoSlab-regular.eot') format('eot'),
+        url('RobotoSlab-regular.svg') format('svg'),
+        url('RobotoSlab-regular.woff') format('woff'),
+        url('RobotoSlab-regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
